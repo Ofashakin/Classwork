@@ -26,13 +26,15 @@ int main()
 	float avspd;
 
 	// Homework P1
-	float rad = 5.5;
-	float circum = 2 * rad * pi;
-	float area = 2 * rad * rad * pi;
+	float circum = 2 * 5.5 * pi;
+	float areaC = 2 * 5.5 * 5.5 * pi;
 	cout << "Circumference = " << circum << endl;
-	cout << "Area = " << area << endl;
+	cout << "Area = " << areaC << endl;
 
 	// Homework P2
-	float perim = (2 * 4.5) + (2 * 7.9)
+	float perim = (2 * 4.5) + (2 * 7.9);
+	float area = (4.5 * 7.9);
+	cout << "Perimeter = " << perim << endl;
+	cout << "Area = " << area << endl;
 	
 }
