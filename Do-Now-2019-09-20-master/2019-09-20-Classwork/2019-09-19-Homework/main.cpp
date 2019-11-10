@@ -12,12 +12,12 @@
 int main()
 {std::cout	<< "Name: Mr. Williams" << std::endl << "Class Schedule" << std::endl
 				<< "Period 1: Intro to CS" <<std::endl
-				<< "Period 2: Earth Science" << std::endl
-				<< "Period 3: PE" << std::endl
-				<< "Period 4: Global History" << std::endl
-				<< "Period 5: Visual Arts" << std::endl
-				<< "Period 6: Lunch" << std::endl
-				<< "Period 7: Geometry" << std::endl
-				<< "Period 8: House" << std::endl
-				<< "Period 9: Health" << std::endl
-				<< "Period 10: Spanish";}
+				<< "Period 2: Phys.Ed." << std::endl
+				<< "Period 3: Health" << std::endl
+				<< "Period 4: House" << std::endl
+				<< "Period 5: Algebra II" << std::endl
+				<< "Period 6: English 10 Hnrs" << std::endl
+				<< "Period 7: Lunch" << std::endl
+				<< "Period 8: Global History I" << std::endl
+				<< "Period 9: Spanish" << std::endl
+				<< "Period 10: Earth Science";}
